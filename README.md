@@ -1,3 +1,13 @@
+This repository is an attempt to capture my favorite settings for various IDE and developer resources. There are two folders, one for windows and one for mac
+
+Currently attempting to capture VScode, anaconda, and a rough start for PyCharm.
+
+Python - 
+Assumes:
+* Python Anaconda installed into the C drive under C:\\Python\
+
+
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
