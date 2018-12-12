@@ -1,11 +1,29 @@
+# Development IDE Settings for Cory Perkins
 This repository is an attempt to capture my favorite settings for various IDE and developer resources. There are two folders, one for windows and one for mac
 
 Currently attempting to capture VScode, anaconda, and a rough start for PyCharm.
 
-Python - 
+## Python 
 Assumes:
-* Python Anaconda installed into the C drive under C:\\Python\
+* Python Anaconda installed into the C drive under C:\Python
 
+Does not Assume:
+* the project directory is in the system path
+
+### VScode
+* load your project specific interpreter and linter using the command pallet (*cntl*+*shift*+*p*)
+ * Currently I like MyPy as a linter
+ * Defaults:
+  * conda base interpreter
+  * black formater
+  * mypy linter
+  
+### PyCharm
+working on the settings
+
+## Node.js
+
+_**Needs To Be Implemented**_
 
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
