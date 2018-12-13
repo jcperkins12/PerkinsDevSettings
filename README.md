@@ -21,9 +21,19 @@ Does not Assume:
 ### PyCharm
 working on the settings
 
+need to download:
+* black-pycharm plugin
+* mypy
+
+
+
+
 ## Node.js
 
 _**Needs To Be Implemented**_
+
+
+
 
 
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
