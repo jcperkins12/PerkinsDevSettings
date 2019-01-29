@@ -1,11 +1,13 @@
 {
-    "python.pythonPath": "C:\\Python\\Continuum\\anaconda3\\envs\\MarketAnalysis\\python.exe",
+    "python.pythonPath": "C:\\Python\\Continuum\\envs\\Markets\\python.exe",
     "python.formatting.provider": "black",
     "editor.formatOnSave": true,
     "python.linting.pylintEnabled": false,
     "python.linting.pylintUseMinimalCheckers": false,
     "python.linting.mypyEnabled": true,
-    "python.linting.enabled": true,
+    "python.linting.enabled": false,
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 120
+    "editor.wordWrapColumn": 120,
+    "python.unitTest.autoTestDiscoverOnSaveEnabled": false,
+    "python.unitTest.pyTestEnabled": true
 }

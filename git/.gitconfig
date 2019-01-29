@@ -1,0 +1,11 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\cp035982\\Documents\\gitignore_global.txt
+[user]
+	name = jcperkins
+	email = jcperkins12@gmail.com
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
